@@ -1,0 +1,34 @@
+.nav-text {
+    color: #fff;
+    margin: 0 auto;
+}
+
+.card-padding {
+    padding-bottom: 15px;
+}
+
+.newBtn {
+    margin-bottom: 15px;
+}
+
+.newBtn:hover {
+    cursor: pointer;
+}
+
+#forecast {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.future-forecast {
+    background-color: #007bff;
+    color: white;
+    width: 17%;
+    float: left;
+    margin-right: 15px;
+    padding: 5px;
+}
+
+.col-md-8 {
+    display: none;
+}
