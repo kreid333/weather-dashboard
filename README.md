@@ -1,46 +1,32 @@
-# 06 Server-Side APIs: Weather Dashboard
+# Project Title
 
-Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+Creating a weather app
 
-Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities. The documentation includes a section called "How to start" that will provide basic setup and usage instructions. Use `localStorage` to store any persistent data.
+## Description
 
-## User Story
+For this project, I had to create a weather app that displayed the current weather and 5-day forecast for the city I searched for. The searches would then be saved under the input field and to local storage so that if I reloaded the page, previous searches would be displayed and clicking on them would populate the weather data.
 
-```
-AS A traveler
-I WANT to see the weather outlook for multiple cities
-SO THAT I can plan a trip accordingly
-```
+## Getting Started
 
-## Acceptance Criteria
+### Installing
 
-```
-GIVEN a weather dashboard with form inputs
-WHEN I search for a city
-THEN I am presented with current and future conditions for that city and that city is added to the search history
-WHEN I view current weather conditions for that city
-THEN I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
-WHEN I view the UV index
-THEN I am presented with a color that indicates whether the conditions are favorable, moderate, or severe
-WHEN I view future weather conditions for that city
-THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity
-WHEN I click on a city in the search history
-THEN I am again presented with current and future conditions for that city
-WHEN I open the weather dashboard
-THEN I am presented with the last searched city forecast
-```
+No files are required to access this project. However, I would suggest that you go in Git Bash (or any other terminal you use), pull all files within the "gt-atl-fsf-ft-08-2020-u-c" repo, go to the "02-Homework" folder within "06-Server-Side-APIs", and copy the "README.md" (for referencing what you are suppose to be doing).
 
-The following image demonstrates the application functionality:
+### Executing program
 
-![weather dashboard demo](./Assets/06-server-side-apis-homework-demo.png)
+Open HTML file in a browser to view how it looks visually and to see how it operates. I would recommend using console.log() in your Javascript file to see what your code is doing.
 
-## Review
+## Finished Project
 
-You are required to submit the following for review:
+![Document](https://user-images.githubusercontent.com/67942678/93282005-5f5ad000-f79b-11ea-81c3-a667b409cb56.gif)
 
-* The URL of the deployed application.
+## GitHub Pages link
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+https://kreid333.github.io/weather-dashboard/
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## Authors
+
+Kai Reid
+[@kreid333](https://github.com/kreid333)
+
+<!-- README.md template acquired from: https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc -->
