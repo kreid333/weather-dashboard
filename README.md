@@ -1,32 +1,45 @@
-# Project Title
+# Weather Dashboard
 
-Creating a weather app
 
-## Description
+## Description 
 
 For this project, I had to create a weather app that displayed the current weather and 5-day forecast for the city I searched for. The searches would then be saved under the input field and to local storage so that if I reloaded the page, previous searches would be displayed and clicking on them would populate the weather data.
 
-## Getting Started
+## Table of Contents
 
-### Installing
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
-No files are required to access this project. However, I would suggest that you go in Git Bash (or any other terminal you use), pull all files within the "gt-atl-fsf-ft-08-2020-u-c" repo, go to the "02-Homework" folder within "06-Server-Side-APIs", and copy the "README.md" (for referencing what you are suppose to be doing).
+## Usage 
 
-### Executing program
+In order to access this application, the user can click on the link below, which will redirect them to my Weather Dashboard application.
 
-Open HTML file in a browser to view how it looks visually and to see how it operates. I would recommend using console.log() in your Javascript file to see what your code is doing.
+* [Weather Dashboard](https://kreid333.github.io/weather-dashboard/)
+
+From there, the user can type in the name of a city and two things will populate onto the page: the current weather and a 5-day forceast. If the user refreshes the page, his searches are saved and, if clicked, they will populate the same two things as before.
 
 ## Finished Project
 
 ![Document](https://user-images.githubusercontent.com/67942678/93282005-5f5ad000-f79b-11ea-81c3-a667b409cb56.gif)
 
-## GitHub Pages link
+## Credits
 
-https://kreid333.github.io/weather-dashboard/
+* [Bootstrap](https://getbootstrap.com/)
+* [OpenWeatherMap](https://openweathermap.org/)
 
-## Authors
+## License
 
-Kai Reid
-[@kreid333](https://github.com/kreid333)
+MIT License
 
-<!-- README.md template acquired from: https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc -->
+&copy; 2020, Kai Reid
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+
