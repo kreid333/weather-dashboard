@@ -8,6 +8,7 @@ For this project, I had to create a weather app that displayed the current weath
 ## Table of Contents
 
 * [Usage](#usage)
+* [Finished Project](#finished-project)
 * [Credits](#credits)
 * [License](#license)
 
